@@ -1,0 +1,27 @@
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\bin\Debug\SüperMarket.exe.config
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\bin\Debug\SüperMarket.exe
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\bin\Debug\SüperMarket.pdb
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\obj\Debug\SüperMarket.frmSuperMarket.resources
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\obj\Debug\SüperMarket.Properties.Resources.resources
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\obj\Debug\SüperMarket.csproj.GenerateResource.Cache
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\obj\Debug\SüperMarket.exe
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\obj\Debug\SüperMarket.pdb
+C:\Users\beritan\Desktop\SüperMarket\SüperMarket\obj\Debug\SüperMarket.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\bin\Debug\SüperMarket.exe.config
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.exe
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.pdb
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\bin\Debug\SüperMarket.exe
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\bin\Debug\SüperMarket.pdb
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.frmSuperMarket.resources
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.Properties.Resources.resources
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.csproj.GenerateResource.Cache
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\bin\Debug\SüperMarket.exe.config
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.exe
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\bin\Debug\SüperMarket.exe
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\bin\Debug\SüperMarket.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.csprojResolveAssemblyReference.cache
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.frmSuperMarket.resources
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.Properties.Resources.resources
+C:\Users\Beritan Karali\Desktop\Dersler\2.Sınıf 1.Dönem\C#\SüperMarketOtomasyon\SüperMarket\SüperMarket\obj\Debug\SüperMarket.csproj.GenerateResource.Cache
